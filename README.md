@@ -1,1 +1,1 @@
-# ql-iso-8859-2-font
+# ISO 8859-2 font for Sinclair QL
