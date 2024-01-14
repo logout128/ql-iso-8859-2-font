@@ -3,13 +3,13 @@
 1020 MODE 4:WINDOW #1,480,240,24,12: CLS
 1030 GOSUB 9000
 1040 PRINT "Czech:"
-1050 PRINT "PÃ¸Ã­liÂ¹ Â¾luÂ»ouÃ¨kÃ½ kÃ¹Ã² ÃºpÃ¬l Ã¯Ã¡belskÃ© Ã³dy!":PRINT
+1050 PRINT "Pøíli¹ ¾lu»ouèkı kùò úpìl ïábelské ódy!":PRINT
 1060 PRINT "Polish:"
-1070 PRINT "PchnÂ±Ã¦ w tÃª Â³Ã³dÂ¼ jeÂ¿a lub oÂ¶m skrzyÃ± fig.":PRINT
+1070 PRINT "Pchn±æ w tê ³ód¼ je¿a lub o¶m skrzyñ fig.":PRINT
 1080 PRINT "Slovak:"
-1090 PRINT "VypÃ¤tÃ¡ dcÃ©ra grÃ³fa Maxwella s IQ niÂ¾Â¹Ã­m ako kÃ´Ã² nÃºti Ã¨eÂµaÃ¯ hrÃ½zÂ» hÃ bu jabÃ¥k.":PRINT
+1090 PRINT "Vypätá dcéra grófa Maxwella s IQ ni¾¹ím ako kôò núti èeµaï hrız» hàbu jabåk.":PRINT
 1100 PRINT "Hungarian:"
-1110 PRINT "JÃ¡mbor cÃ©lÃº, Ã¶v Ã¼gyÃ» ex-qwan ki dÃ³-s fÃµz, puhÃ­t.":PRINT
+1110 PRINT "Jámbor célú, öv ügyû ex-qwan ki dó-s fõz, puhít.":PRINT
 1120 STOP
 9000 REMark Font initialisation for window #1 as the second font.
 9010 fontlen=129
